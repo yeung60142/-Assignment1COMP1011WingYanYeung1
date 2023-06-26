@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55b3c91f-b224-424b-9232-d76194c9185f" name="Changes" comment="lab 5 - main1">
+    <list default="true" id="55b3c91f-b224-424b-9232-d76194c9185f" name="Changes" comment="Added the table view for the application">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/assignment1comp1011wingyanyeung1/DBUnility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/assignment1comp1011wingyanyeung1/DBUnility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/assignment1comp1011wingyanyeung1/bar_chartController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/assignment1comp1011wingyanyeung1/bar_chartController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/assignment1comp1011wingyanyeung1/mainApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/assignment1comp1011wingyanyeung1/mainApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/assignment1comp1011wingyanyeung1/ontariobuildController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/assignment1comp1011wingyanyeung1/ontariobuildController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/assignment1comp1011wingyanyeung1/ontariobuild.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/assignment1comp1011wingyanyeung1/ontariobuild.fxml" afterDir="false" />
     </list>
@@ -92,7 +93,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1687738303347</updated>
-      <workItem from="1687738304326" duration="10144000" />
+      <workItem from="1687738304326" duration="12051000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -110,7 +111,15 @@
       <option name="project" value="LOCAL" />
       <updated>1687747203588</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added the table view for the application">
+      <option name="closed" value="true" />
+      <created>1687749983293</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1687749983293</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,6 +128,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="lab 5 - main1" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab 5 - main1" />
+    <MESSAGE value="Added the table view for the application" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added the table view for the application" />
   </component>
 </project>
