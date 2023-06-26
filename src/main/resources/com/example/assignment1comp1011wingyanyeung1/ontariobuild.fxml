@@ -7,8 +7,8 @@
 <?import javafx.scene.control.TableView?>
 <?import javafx.scene.layout.AnchorPane?>
 
+<AnchorPane prefHeight="527.0" prefWidth="815.0" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.assignment1comp1011wingyanyeung1.ontariobuildController" stylesheets="@ontariobuildstyle.css">
 
-<AnchorPane prefHeight="527.0" prefWidth="815.0" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.assignment1comp1011wingyanyeung1.ontariobuildController">
    <children>
       <Label layoutX="483.0" layoutY="429.0" text="Label" />
       <Button fx:id="button_id" layoutX="73.0" layoutY="328.0" mnemonicParsing="false" onAction="#handleButtonAction" text="Button" />
